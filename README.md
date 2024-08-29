@@ -3,25 +3,27 @@
 [//]: # (<img  align="center" alt="Coding" src="https://justpaste.it/img/small/b2a8815f076de410c694851ed24a4cdd.jpg"></img>)
 ![fox](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG95YWN4ZDNwOTBocGs3dmUzMGRmY3h5NmY0dnFldXY5aGZ3OHBsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j3OL6mSc2FeV0UHMDg/giphy.webp)
 
-## Software Engineer. ☕ 
+## Data Scientist. ☕ 
 
-- 🌱 Currently into open-source development
-- 👯 Working on 3 projects right now
-- 🥅 2024 Goals: To solve 1500 DSA problems
-- ⚡ Fun fact: I have been a professional artist
+- 🌱 Currently exploring NLP
+- 👯 Working on 2 projects right now
+- 🥅 2024 Goals: Explore more into Data Engineer and MLops
+- ⚡ Fun fact: Probably online on Valorant
 
 ## ✨ Technical Tools: 
 
 ### Programming Languages
-[![Languages](https://skillicons.dev/icons?i=cpp,c,js,ts,java,dart,python)](https://skillicons.dev) <br/>
+[![Languages](https://skillicons.dev/icons?i=cpp,c,js,java,python)](https://skillicons.dev) <br/>
+### Machine Learning
+[![Libraries](https://skillicons.dev/icons?i=sklearn,opencv,pytorch,tensorflow)](https://skillicons.dev) <br/>
 ### Frontend Development
-[![Frontend](https://skillicons.dev/icons?i=react,next,tailwind,materialui,html,css,bootstrap)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,html,css,bootstrap,styledcomponents)](https://skillicons.dev)
 ### Backend Development
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,postman)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,postman,npm)](https://skillicons.dev)
 ### Databases
-[![Backend](https://skillicons.dev/icons?i=mongodb,mysql,firebase)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 ### Other
-[![Other](https://skillicons.dev/icons?i=vscode,git,github,bash,figma)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=anaconda,atom,git,github,vscode,sublime,pycharm,replit)](https://skillicons.dev)
 
 ## 📊 GitHub
 [![Rujul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RujulP14&show_icons=true&theme=vision-friendly-dark)](https://github.com/RujulP14/github-readme-stats)
