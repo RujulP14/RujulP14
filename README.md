@@ -29,7 +29,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RujulP14&layout=compact&theme=vision-friendly-dark)
 
 ## 🏆️ Github Trophies: 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RujulP14&theme=onestar)](https://github.com/yogeyyy/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RujulP14&theme=onestar)](https://github.com/RujulP14/github-profile-trophy)
 
 
 ## 🙌 Connect with me:
