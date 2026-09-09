@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineer building backend systems, AI applications, and automation</h3>
 
 <p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnN5eGdoajUzMnpzd2dpNzJ5eXV5amxvaGZwam5mdTFqOHFvbXE2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qb1eHxhUHLdsc/giphy.webp" alt="fox" />
 </p>
 
 ## 👨‍💻 About Me
